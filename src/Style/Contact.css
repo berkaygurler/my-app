@@ -1,0 +1,16 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.contact p {
+    display: flex;
+    width: 750px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 20px;
+}
